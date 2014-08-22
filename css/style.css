@@ -1,0 +1,121 @@
+body {
+   font-family: sans-serif;
+   margin: 3em;
+   background-color: white;
+   text-align: justify;
+}
+
+h1, h2, h3 {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+   color: #007;
+}
+
+/* This is the class for the main title*/
+.t {
+	color: #426598;
+	font-family: sans-serif;
+	font-variant: small-caps;
+	text-decoration: none;
+}
+
+p.box {
+   background-color: #eee;
+   border: 1px dashed #6487dc;
+   padding: 5px;
+   font-size: 1.2em;
+   font-family: monospace;
+} 
+
+dt {
+   font-weight: bold;
+   padding: 2px;
+   color: #6487dc;
+}
+
+dt a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	color: #007;
+	font-weight: bold;
+}
+
+dd { margin-right: 2em; } /* wtf */
+
+hr {
+   border: none;
+   height: 1px;
+   border-top: 1px solid black;
+}
+
+#main {
+	font-size: 0.8em;
+	clear: left;;
+	color: #222;
+	margin: 0px auto;
+	background-color: white;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border: 1px solid #ccc;
+	border-left: none;
+	border-right: none;
+	line-height: 1.5em;
+	font-family: Tahoma, sans-serif;
+}
+
+#section {
+	font-size: 0.8em;
+	clear: left;
+	color: #222;
+	margin: 0px auto;
+	background-color: white;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border: none;
+	border-left: none;
+	border-right: none;
+	font-family: Tahoma, sans-serif;
+}
+
+#bottom { 
+	background-color: white; 
+	padding-top: 0.5em; 
+	font-size: 0.9em;
+	float: bottom;
+	clear: bottom;
+	}
+
+
+#main h1
+{
+	letter-spacing: 0.7em;
+	color: #426598;
+	font-variant: small-caps;
+	border-bottom: 1px dashed #ccc;
+	padding-bottom: 0.25em;
+}
+
+#main h3
+{
+	letter-spacing: 0.7em;
+	color: #426598;
+	font-variant: small-caps;
+	border-bottom: 1px dashed #ccc;
+	padding-bottom: 0.25em;
+}
+#main h2
+{
+	letter-spacing: 0.7em;
+	color: #426598;
+	font-variant: small-caps;
+	border-bottom: 1px dashed #ccc;
+	padding-bottom: 0.25em;
+}
+
+.slide_out_div {
+       padding: 0px;
+        width: 95%;
+        height: 95%;
+        background: #f7f7f7;
+        border: #29216d 2px solid;
+    }

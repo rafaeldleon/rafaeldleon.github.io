@@ -1,1 +1,284 @@
-Hello World
+<!DOCTYPE html>
+<html>
+	<head>
+	
+    	<meta http-equiv="Content-Language" content="EN" />	
+		<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+		<title>Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page</title>
+		<link type="text/css" href="css/personal-theme/jquery-ui-1.8.4.custom.css" rel="stylesheet" />
+		<style type="text/css" media="screen">@import "css/style.css";</style>
+		<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+		<script type="text/javascript" src="js/jquery-ui-1.8.4.custom.min.js"></script>
+		<script type="text/javascript"
+                src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+
+	
+
+   	<script type="text/javascript" src="js/jquery.tabSlideOut.v2.0.js"></script>
+
+      
+		<script type="text/javascript">
+			$(document).ready(function(){
+					   				
+				var winW = 630, winH = 460;
+				winH = $(window).height();
+				winW = $(window).width();
+				var winW8 = winW*0.85, winH8 = winH*0.85;
+				
+				$(window).resize( function () {
+					winH = $(window).height();
+					winW = $(window).width();
+					winW8 = winW*0.85, winH8 = winH*0.85;
+					$dialog_courses.dialog("option", "height", winH8);
+					$dialog_courses.dialog("option", "width", winW8);
+					$dialog_courses.dialog("option", "position", "center");
+				});
+
+
+				
+				// Accordion
+				$("#accordion").accordion({ header: "h3" });
+	
+				// Tabs
+				var $tabs = $('#tabs').tabs();
+				
+				//var $tabs = $('#tabs').tabs(); // first tab selected
+
+				//$('#preprints-and-publications').click(function() { // bind click event to link
+    			//	$tabs.tabs('select', 2); // switch to third tab
+    			//	return false;
+				//});
+				
+				// Dialog for presenting info
+				$("#dialog-showinfo").dialog("destroy");
+				$dialog_showinfo=$("#dialog-showinfo").dialog({
+				      autoOpen: false,
+						resizable: false,
+						height: winH8,
+						width: winW8,
+						hide: 'explode',
+						modal: true,
+				});
+				
+				
+				$('.showinfo').click(function() { // bind click event to link
+					var newHref=$(this).attr('href');
+    				var newTitle=$(this).attr('name');
+    				$iframe=document.getElementById("iframe-dialog-showinfo");
+    				$iframe.src = newHref;
+    				$dialog_showinfo.dialog( "option", "title", newTitle );
+    				$('#dialog-showinfo').dialog('open');
+    				return false;
+    			});				
+				
+				
+				
+				$('#curriculum-vitae').click(function() { // bind click event to link
+    				$tabs.tabs('select', 3); // switch to third tab
+    				return false;
+				});
+	
+				// Dialog for courses
+				$("#dialog-courses").dialog("destroy");
+				$dialog_courses=$("#dialog-courses").dialog({
+				      autoOpen: false,
+						resizable: false,
+						height: winH8,
+						width: winW8,
+						hide: 'explode',
+						modal: true,
+				});
+				
+				
+				$('.course').click(function() { // bind click event to link
+					var newHref=$(this).attr('href');
+    				var newTitle=$(this).attr('name');
+    				$iframe=document.getElementById("iframe-dialog-courses");
+    				$iframe.src = newHref;
+    				$dialog_courses.dialog( "option", "title", newTitle );
+    				$('#dialog-courses').dialog('open');
+    				return false;
+    			});
+    			
+    			
+				
+				
+				//hover states on the static widgets
+				$('#dialog_link, ul#icons li').hover(
+					function() { $(this).addClass('ui-state-hover'); }, 
+					function() { $(this).removeClass('ui-state-hover'); }
+				);
+				
+			});
+			
+		</script>
+		
+	</head>
+	
+	<body>
+	
+		<h1 class="t">Rafael S. Gonz&aacute;lez D'le&oacute;n</h1>
+		
+		<!-- Main Body -->
+		<div id="main" >
+		
+			<!-- Tabs -->
+				<div id="tabs" >
+					<ul>
+						<li><a href="#courses">Courses</a></li>
+						<li><a href="#research">Research</a></li>
+						<li><a href="#academic">Academic</a></li>
+						<li><a href="#links">Links</a></li>
+						<li><a href="#contact">Contact</a></li>
+					</ul>
+				
+					<!-- Courses -->
+					<div id="courses">
+						<!-- Accordion of courses -->
+						<div id="accordion">
+							<div>
+								<h3><a href="#">Currently at University of Kentucky</a></h3>
+								<div>
+									<a name="MA 322 001" href="pages/courses/ma322001-201402.html" class="course">MA 322 001. Matrix Algebra.</a> <br>
+								</div>
+							</div>
+																				
+								
+							<div>
+								<h3><a href="#">At University of Miami</a></h3>
+								<div>
+								<strong>2012 </strong><br>
+									<a name="MTH 162 55" href="pages/courses/mth16255-201201.html" class="course">MTH 162 55. Calculus 2.</a> <br>
+								
+								<strong>2011</strong><br>
+									<a name="MTH 161 11" href="pages/courses/mth16111-201102.html" class="course">MTH 161 11. Calculus 1.</a><br>
+									<a name="MTH 107 B" href="pages/courses/mth107b-201101.html" class="course">MTH 107 B. Precalculus 1.</a><br>
+								
+								<strong>2010</strong><br>
+									<a name="MTH 161 DN" href="pages/courses/mth161dn-201002.html" class="course">MTH 161 DN. Calculus 1.</a> <br>
+									MTH 112. Calculus 2. (Tutoring session)<br>
+								
+								<strong>Fall 2009</strong><br>
+									MTH 110.Calculus 1. (Lab)<br>
+								</div>
+							</div>											
+												
+						</div>
+						
+					</div>
+					
+					
+					<!-- Research Information -->
+					<div id="research">
+					<h2>Research Interests</h2>
+							<em>Algebraic and Topological Combinatorics.</em>
+							
+						<h2>Preprints and Publications</h2>
+						
+
+							<p><a name="Preprints and Publications" href="pages/publications.html" class="showinfo">See.</a> <br></p>
+							
+						<h2>Talks</h2>
+						<p><a name="Talks and presentations" href="pages/talks.html" class="showinfo">See.</a> <br></p>
+						
+					</div>
+					<!-- Academic Information -->
+					<div id="academic">
+					
+						<h2>Academic Employment</h2>
+						   <p>Postdoctoral Scholar, August 2014- Present. University of Kentucky, USA. </p>
+							<p>Research Assistant (Supported by NSF Grant DMS 1202755), June 2012- July 2014. University of Miami, USA. </p>
+							<p>Teaching Assistant, August 2009- May 2012. University of Miami, USA. </p>
+
+						<h2>Education</h2>
+						
+							<p>Ph.D. in Mathematics, August 2014. University of Miami, USA. </p>
+							<p>M.Sc. in Mathematics, May 2011. University of Miami, USA. </p>
+							<p>M.Sc. in Mathematics, June 2009. KTH - Royal Institute of Technology, Stockholm, Sweden.</p>
+							<p>Electrical Engineering, March 2006. UPB University, Medell&iacute;n, Antioquia, Colombia</p>
+
+						<h2>Full Curriculum Vitae</h2>
+						<p><a href="personal/curriculum_vitae.pdf">Curriculum Vitae (pdf format)</a></p>
+ 							<p><a href="http://www.linkedin.com/in/rafaeldleon">My profile in LinkedIn</a></p>
+					
+					</div>
+					
+					
+										
+					
+					<!-- Contact information -->
+					<div id="contact">
+						<h2>Rafael S. Gonz&aacute;lez D'le&oacute;n</h2>
+
+						<img border="0" src="personal/profile_picture.jpg" alt="Profile Picture"  width="15%" height="15%">
+						<br/>
+						<br/>
+						Postdoctoral Scholar<br/>
+						<a href="http://www.math.uky.edu/">Department of Mathematics</a> <br/>
+						<a href="http://www.uky.edu/">University of Kentucky</a> <br/>
+						<h2>Address</h2>
+						Patterson Office Tower, Room 767 <br/>
+						Lexington KY 40506-0027<br/>
+						Email: rafaeldleon at uky.edu <br/>
+						Phone: 859-257-4802<br/>
+						
+					</div>
+					
+					<!-- Links -->
+					<div id="links">
+					
+						<h2>Links to databases of Mathematical objects</h2>
+ 							
+ 							<p><a href="http://www.research.att.com/~njas/sequences/Seis.html">The On-Line Encyclopedia of Integer Sequences</a></p>
+ 
+ 							<p><a href="http://www2.research.att.com/~njas/lattices/index.html">Gabriele Nebe and Neil Sloane's Catalogue of Lattices</a></p>
+ 
+ 							<p><a href="http://brauer.maths.qmul.ac.uk/Atlas/v3/">ATLAS of Finite Group Representations</a></p>
+
+ 							<p><a href="http://dlmf.nist.gov/">NIST Digital Library of Mathematical Functions</a></p>
+ 
+ 							<p><a href="http://www.cs.sunysb.edu/~skiena/combinatorica/graphs/"> A Database of Graphs in Combinatorica Format</a></p>
+ 							<p><a href="http://www-imai.is.s.u-tokyo.ac.jp/~ymatsu/matroid/index.html"> A Database of Matroids</a></p>
+ 							<p><a href="http://www.om.math.ethz.ch/?p=catom"> Catalog of Oriented Matroids</a></p>
+							<p><a href="http://mapleta.maths.uwa.edu.au/~gordon/">Combinatorial Catalogues of G.F. Royle</a></p>
+							<p><a href="http://www.emis.de/journals/SLC/divers/software.html">Combinatorial Software and Databases</a></p>
+							<p><a href="http://wstein.org/Tables/">The Modular Forms Database</a></p>
+
+						<h2>Links to repositories with mathematical knowledge</h2>
+							<p><a href="http://www.tricki.org/">Tricki-Problem solving</a></p>
+							<p><a href="http://mathworld.wolfram.com/">Wolfram MathWorld</a></p>
+							<p><a href="http://www.math-atlas.org/welcome.html">The Mathematical Atlas</a></p>
+
+						<h2>Links to databases of open problems in Mathematics</h2>
+							<p><a href="http://garden.irmacs.sfu.ca/">Open problem garden</a></p>
+					
+					
+					
+				</div>
+				
+				
+		</div>
+		
+		<div id="bottom">
+		<p>
+ This is a personal homepage. Opinions expressed here or implied by links provided, do not represent the official views of University of Kentucky.
+</p>
+
+
+<div id="dialog-courses" title="">
+	<iframe id="iframe-dialog-courses" width="99%" height="99%" frameborder="0" src=""></iframe>
+</div>
+<div id="dialog-showinfo" title="">
+	<iframe id="iframe-dialog-showinfo" width="99%" height="99%" frameborder="0" src=""></iframe>
+</div>
+
+</div>
+
+
+
+
+	</body>
+
+</html>
+	
