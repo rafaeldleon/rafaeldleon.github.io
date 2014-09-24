@@ -1,0 +1,14 @@
+<div class="container">
+        <p class="text-muted">This is a personal homepage. Opinions expressed here or implied by links provided, do not represent the official views of University of Kentucky.
+</p>
+</div>
+<!-- Modal -->
+<div id="dialog-showinfo" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="dialog-header"></h3>
+  </div>
+  <div class="modal-body">
+    <<iframe id="iframe-dialog-showinfo" width="99%" height="99%" frameborder="0" src=""></iframe>
+  </div>
+</div>

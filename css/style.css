@@ -1,9 +1,86 @@
 body {
    font-family: sans-serif;
-   margin: 3em;
+   padding-top: 20px;
+   padding-bottom: 20px;
    background-color: white;
    text-align: justify;
 }
+.navbar {
+  margin-bottom: 20px;
+}
+.navbar-header {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: normal;
+   color: #007;
+   }
+   
+.accordion {
+  margin-bottom: 20px;
+}
+#dialog-showinfo{
+	position: fixed;
+	top: 5%;
+	left: 5%;
+	background-color: white;
+	width: 90%;
+	height: 90%;
+	border-radius: 5px;
+	overflow:hidden;
+}
+#iframe-dialog-showinfo {
+	position: relative;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 90%;
+}
+
+.modal-header {
+	min-height: 8px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 15px
+}
+.modal-header .close {
+margin-top: 15px;
+}
+.accordion-group {
+  margin-bottom: 2px;
+  border: 1px solid #e5e5e5;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+}
+
+.accordion-heading {
+  border-bottom: 0;
+}
+ 
+.jumbotron{
+    background: url("/images/defaultimg.jpg"); 
+    background-position: 0% 50%;
+    background-size: cover;
+    height: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+.accordion-heading .accordion-toggle {
+  display: block;
+  padding: 8px 15px;
+}
+
+.accordion-toggle {
+  cursor: pointer;
+}
+
+.accordion-inner {
+  padding: 9px 15px;
+  border-top: 1px solid #e5e5e5;
+}
+
 
 h1, h2, h3 {
    font-family: Arial, Helvetica, sans-serif;
@@ -40,7 +117,6 @@ dt a {
 	font-weight: bold;
 }
 
-dd { margin-right: 2em; } /* wtf */
 
 hr {
    border: none;
