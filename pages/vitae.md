@@ -23,7 +23,7 @@ title: Curriculum Vitae
 
 <h2>Full Curriculum Vitae</h2>
 
-<p><a href="//personal/curriculum_vitae.pdf">Curriculum Vitae (pdf format)</a></p>
+<p><a href="~/personal/curriculum_vitae.pdf">Curriculum Vitae (pdf format)</a></p>
  
 <p><a href="http://www.linkedin.com/in/rafaeldleon">My profile in LinkedIn</a></p>
 
