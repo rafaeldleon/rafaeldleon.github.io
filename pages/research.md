@@ -9,12 +9,6 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
 
 <h2>Upcoming events and activities</h2>
 
-<p>October 25-26, 2014. Special Session on Topological Combinatorics and Combinatorial Commutative Algebra. AMS Sectional Meeting. SFSU, San Francisco, CA, USA.</p>
-
-<p>November 10-14, 2014. IMA Annual Program Year Workshop Geometric and Enumerative Combinatorics. IMA University of Minnesota.  Minneapolis, MN, USA.</p>
-
-<p>November 24, 2014. Applied Algebra Seminar. York University.  Toronto, Canada.</p>
-
 <p>January 6-9, 2015. Conference in honor of Michelle Wachs. University of Miami. Miami, FL, USA.</p>
 
 <p>March 14-15, 2015. Special Session on Algebraic Combinatorics. AMS Sectional Meeting. Michigan State University in East Lansing, MI, USA.</p>
