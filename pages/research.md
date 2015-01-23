@@ -13,8 +13,14 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
 
 <p>March 14-15, 2015. Special Session on Algebraic Combinatorics. AMS Sectional Meeting. Michigan State University in East Lansing, MI, USA.</p>
 
+<p>April 18-19, 2015. Special Session on Algebro-Geometric Methods in Graph Theory. AMS Sectional Meeting. 
+University of Nevada. Las Vegas, NV, USA.</p>
+
 <p>May 13, 2015. Combinatorics Seminar. University of Washington.  Seattle, WA, USA.</p>
-							
+						
+<p>October 3-4, 2015, 2015. Special Session on Enumerative algebraic and
+geometric combinatorics. AMS Sectional Meeting. Loyola University. Chicago, IL, USA.</p>
+
 <h2>Preprints and Publications</h2>
 
 <ol>
