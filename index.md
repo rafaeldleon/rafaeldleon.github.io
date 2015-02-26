@@ -18,7 +18,7 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
   <h2>Spring 2015</h2>
   <p>
    <a class="btn btn-lg btn-primary showinfo" name="MA 322 002" href="/pages/courses/ma322002-201501.html" role="button">View page of the course</a>
-   <a class="btn btn-lg btn-primary" name="MA 322 002" href="#" role="button">Online homework</a>   
+   <a class="btn btn-lg btn-primary" name="MA 322 002" href="http://webwork.as.uky.edu/webwork2/uky-ma322-002/" role="button">Online homework</a>   
    <a class="btn btn-lg btn-primary showinfo" name="MA 322 002" href="/pages/courses/suggestedproblemsma322002-201501.html" role="button">Suggested exercises</a>
 
 
@@ -35,7 +35,7 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
   <h2>Spring 2015</h2>
   <p>
    <a class="btn btn-lg btn-primary showinfo" name="MA 214 006" href="/pages/courses/ma214006-201501.html" role="button">View page of the course</a>
-   <a class="btn btn-lg btn-primary" name="MA 214 006" href="#" role="button">Online homework</a>   
+   <a class="btn btn-lg btn-primary" name="MA 214 006" href="http://webwork2.ms.uky.edu/webwork2/ma214-06/" role="button">Online homework</a>   
    <a class="btn btn-lg btn-primary showinfo" name="MA 214 006" href="/pages/courses/suggestedproblemsma214006-201501.html" role="button">Suggested exercises</a>
 
 
