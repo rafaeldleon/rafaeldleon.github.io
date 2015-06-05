@@ -1,7 +1,7 @@
 ---
 layout: publication
 type: preprint
-title: A note on the \\(\gamma\\)-coefficients of the "tree Eulerian polynomial"
+title: A note on the &gamma;-coefficients of the tree Eulerian polynomial
 authors: R. S. Gonz&aacute;lez D'Le&oacute;n
 location_url: http://arxiv.org/abs/1505.06676
 location_name: Arxiv 1505.06676
