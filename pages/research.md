@@ -17,6 +17,11 @@ geometric combinatorics. AMS Sectional Meeting. Loyola University. Chicago, IL, 
 
 <p>October 17-18, 2015. Special Session on Topological Combinatorics. AMS Sectional Meeting. University of Memphis. Memphis, TN, USA.</p>
 
+<p>June 13-24, 2016. 5th Encuentro Colombiano de Combinatoria ECCO 2016. Universidad de Antioquia. Medellin, Colombia.</p>
+
+<p>November 7-11, 2016. Workshop "Polyhedral geometry and partition theory". American Institute of Mathematics, San Jose, CA, USA.</p>
+
+
 <h2>Preprints and Publications</h2>
 
 <ol>

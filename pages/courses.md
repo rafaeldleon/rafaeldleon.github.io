@@ -11,8 +11,8 @@ title: Courses
     </div>
     <div id="collapseOne" class="accordion-body collapse in">
       <div class="accordion-inner">
-	<a name="MA 322 002" href="/pages/courses/ma322002-201501.html" class="showinfo">MA 322 002. Matrix Algebra.</a> <br>
-	<a name="MA 214 006" href="/pages/courses/ma214006-201501.html" class="showinfo">MA 214 006. Calculus IV.</a> <br>
+	<a name="MA 415G 001" href="/pages/courses/ma415G001-201502.html" class="showinfo">MA 415G 001. Combinatorics and Graph Theory.</a> <br>
+
       </div>
     </div>
   </div>
@@ -24,6 +24,9 @@ title: Courses
     </div>
     <div id="collapseTwo" class="accordion-body collapse">
       <div class="accordion-inner">
+      <strong>2015 </strong><br>
+      <a name="MA 322 002" href="/pages/courses/ma322002-201501.html" class="showinfo">MA 322 002. Matrix Algebra.</a> <br>
+	<a name="MA 214 006" href="/pages/courses/ma214006-201501.html" class="showinfo">MA 214 006. Calculus IV.</a> <br>
  	<strong>2014 </strong><br>
 	<a name="MA 322 001" href="/pages/courses/ma322001-201402.html" class="showinfo">MA 322 001. Matrix Algebra.</a> <br>
       </div>
