@@ -16,7 +16,7 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
               <h1>415G Combinatorics and Graph Theory</h1>
   <h2 class="white">Fall 2015</h2>
   <p>
-   <a class="btn btn-lg btn-primary showinfo" name="MA 415G 001" href="/pages/courses/ma415G001-201502.html" role="button">View page of the course</a>
+   <a class="btn btn-lg btn-primary showinfo" name="MA 415G 001" href="/pages/courses/ma415G001-201502.html" role="button">View course page</a>
    <a class="btn btn-lg btn-primary showinfo" name="MA 415G 001" href="/pages/courses/homeworkma415G001-201502.html" role="button">Homework</a>   
   </p>
             </div>
