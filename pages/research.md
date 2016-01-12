@@ -9,16 +9,9 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
 
 <h2>Upcoming events and activities</h2>
 
-<p>August 26-30, 2015. Algebraic Combinatorics and Applications, The first annual Kliakhandler Conference.
-Michigan Technological University, Houghton, MI, USA</p>
-
-<p>October 3-4, 2015. Special Session on Enumerative Algebraic and
-geometric combinatorics. AMS Sectional Meeting. Loyola University. Chicago, IL, USA.</p>
-
-<p>October 17-18, 2015. Special Session on Topological Combinatorics. AMS Sectional Meeting. University of Memphis. Memphis, TN, USA.</p>
-
 <p>June 13-24, 2016. 5th Encuentro Colombiano de Combinatoria ECCO 2016. Universidad de Antioquia. Medellin, Colombia.</p>
-
+<p>July 4-8, 2016. FPSAC 2016. Vancouver, British Columbia, Canada .</p>
+<p>July 11-15, 2016. V Congreso Latinoamericano de Matematicos. Universidad del Norte. Barranquilla, Colombia.</p>
 <p>November 7-11, 2016. Workshop "Polyhedral geometry and partition theory". American Institute of Mathematics, San Jose, CA, USA.</p>
 
 
