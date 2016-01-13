@@ -18,7 +18,7 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
               <h1>MA 322 003 Matrix Algebra and its Applications</h1>
   <h2>Spring 2016</h2>
   <p>
-   <a class="btn btn-lg btn-primary showinfo" name="MA 322 003" href="http://dleon.combinatoria.co/pages/courses/ma322003-201601.html" role="button">Course webpage</a>
+   <a class="btn btn-lg btn-primary showinfo" name="MA 322 003" href="/pages/courses/ma322003-201601.html" role="button">Course webpage</a>
    <a class="btn btn-lg btn-primary" name="MA 322 003" href="http://webwork.as.uky.edu/webwork2/MA322003S16" role="button">Homework</a>
    <a class="btn btn-lg btn-primary showinfo" name="MA 322 003" href="/pages/courses/suggestedproblemsma322003-201601.html" role="button">Suggested exercises</a>  
   </p>
