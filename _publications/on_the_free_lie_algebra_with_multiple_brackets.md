@@ -4,8 +4,8 @@ type: preprint
 title: On the free Lie algebra with multiple brackets
 authors: R. S. Gonz&aacute;lez D'Le&oacute;n
 location_url: http://arxiv.org/abs/1408.5415 
-location_name: Arxiv 1408.5415
-comments: 
+location_name: Arxiv 1408.5415 (To appear in Adv. Appl. Math.)
+comments: To appear in Adv. Appl. Math.
 --- 
 
 It is a classical result that the multilinear component of the free Lie algebra is isomorphic (as a representation of 

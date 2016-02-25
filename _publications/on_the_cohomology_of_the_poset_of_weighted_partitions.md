@@ -3,9 +3,9 @@ layout: publication
 type: preprint
 title: On the (co)homology of the poset of weighted partitions
 authors: R. S. Gonz&aacute;lez D'Le&oacute;n, M. L. Wachs
-location_url: http://arxiv.org/abs/1309.5527
-location_name: Arxiv 1309.5527 
-comments: Accepted for publication in Trans. Amer. Math. Soc.
+location_url: http://www.ams.org/journals/tran/0000-000-00/S0002-9947-2016-06483-1/
+location_name: Trans. Amer. Math. Soc. (2016)
+comments: To appear in Trans. Amer. Math. Soc.
 --- 
 
 
