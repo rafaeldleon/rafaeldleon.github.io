@@ -12,6 +12,7 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
 <p>June 13-24, 2016. 5th Encuentro Colombiano de Combinatoria ECCO 2016. Universidad de Antioquia. Medellin, Colombia.</p>
 <p>July 4-8, 2016. FPSAC 2016. Vancouver, British Columbia, Canada .</p>
 <p>July 11-15, 2016. V Congreso Latinoamericano de Matematicos. Universidad del Norte. Barranquilla, Colombia.</p>
+<p>September 24-25, 2016 AMS Special Session on Plethysm and Kronecker Products, Brunswick, Maine, USA.</p>
 <p>November 7-11, 2016. Workshop "Polyhedral geometry and partition theory". American Institute of Mathematics, San Jose, CA, USA.</p>
 
 
