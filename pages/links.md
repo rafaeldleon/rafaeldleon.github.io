@@ -27,7 +27,6 @@ title: Links
 
 <p><a href="http://mathworld.wolfram.com/">Wolfram MathWorld</a></p>
 
-<p><a href="http://www.math-atlas.org/welcome.html">The Mathematical Atlas</a></p>
 
 <h2>Links to databases of open problems in Mathematics</h2>
 
