@@ -3,10 +3,11 @@ layout: publication
 type: journal
 title: On the free Lie algebra with multiple brackets
 authors: R. S. Gonz&aacute;lez D'Le&oacute;n
-location_url: http://www.sciencedirect.com/science/article/pii/S0196885816000336 
-location_name: Adv. Appl. Math. 79 (2016): 37-97.
-comments:
+location_url: http://www.sciencedirect.com/science/article/pii/S0196885816000336/
+location_name: Adv. Appl. Math. 79 (2016): 37-97. 
+comments: 
 --- 
+
 
 It is a classical result that the multilinear component of the free Lie algebra is isomorphic (as a representation of 
 the symmetric group) to the top (co)homology of the proper part of the poset of partitions \\(\Pi_n\\)
