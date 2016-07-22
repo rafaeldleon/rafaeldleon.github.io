@@ -1,11 +1,11 @@
 ---
 layout: publication
-type: preprint
+type: journal
 title: On the (co)homology of the poset of weighted partitions
 authors: R. S. Gonz&aacute;lez D'Le&oacute;n, M. L. Wachs
-location_url: http://www.ams.org/journals/tran/0000-000-00/S0002-9947-2016-06483-1/
-location_name: Trans. Amer. Math. Soc. (2016)
-comments: To appear in Trans. Amer. Math. Soc.
+location_url: http://www.ams.org/journals/tran/2016-368-10/S0002-9947-2016-06483-1/
+location_name: Trans. Amer. Math. Soc. 368 (2016) 6779-6818. 
+comments: 
 --- 
 
 
@@ -18,7 +18,4 @@ rooted trees on on node set \\(\{1,2,\dots,n\}\\) having a fixed number of desce
 find combinatorial bases for homology and cohomology, and we give an explicit sign twisted
 \\(\mathfrak{S}_n\\)-module isomorphism from cohomology to the multilinear component of the free 
 Lie algebra with two compatible brackets.  We  also show thatthe characteristic polynomial of 
-\\(\Pi_n^w\\) has 
-a nice factorization analogous to that of  \\(\Pi_n\\).
-
-
+\\(\Pi_n^w\\) has a nice factorization analogous to that of  \\(\Pi_n\\).

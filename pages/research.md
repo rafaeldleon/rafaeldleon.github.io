@@ -9,12 +9,12 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
 
 <h2>Upcoming events and activities</h2>
 
-<p>June 13-24, 2016. 5th Encuentro Colombiano de Combinatoria ECCO 2016. Universidad de Antioquia. Medellin, Colombia.</p>
-<p>July 4-8, 2016. FPSAC 2016. Vancouver, British Columbia, Canada .</p>
-<p>July 11-15, 2016. V Congreso Latinoamericano de Matematicos. Universidad del Norte. Barranquilla, Colombia.</p>
-<p>September 24-25, 2016 AMS Special Session on Plethysm and Kronecker Products, Brunswick, Maine, USA.</p>
-<p>November 7-11, 2016. Workshop "Polyhedral geometry and partition theory". American Institute of Mathematics, San Jose, CA, USA.</p>
 
+<p>September 24-25, 2016 AMS Special Session on Plethysm and Kronecker Products, Brunswick, ME, USA.</p>
+<p>November 7-11, 2016. Workshop "Polyhedral geometry and partition theory". American Institute of Mathematics, San Jose, CA, USA.</p>
+<p>January 4-7, 2017. AMS Special Session on Applications of Partially Ordered Sets in Algebraic, 
+Topological, and Enumerative Combinatorics at the 2017 Joint Mathematics Meetings, Atlanta, GA, USA</p>
+<p>April 1-2, 2017 AMS Special Session on Algebraic and Enumerative Combinatorics with Applications, Bloomington, IN, USA.</p>
 
 <h2>Preprints and Publications</h2>
 
