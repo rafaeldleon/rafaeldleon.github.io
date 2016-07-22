@@ -1,10 +1,10 @@
 ---
 layout: publication
 type: journal
-title: On the (co)homology of the poset of weighted partitions
-authors: R. S. Gonz&aacute;lez D'Le&oacute;n, M. L. Wachs
-location_url: http://www.ams.org/journals/tran/2016-368-10/S0002-9947-2016-06483-1/
-location_name: Trans. Amer. Math. Soc. 368 (2016) 6779-6818. 
+title: On the free Lie algebra with multiple brackets
+authors: R. S. Gonz&aacute;lez D'Le&oacute;n
+location_url: http://www.sciencedirect.com/science/article/pii/S0196885816000336/
+location_name: Adv. Appl. Math. 79 (2016): 37-97.
 comments: 
 --- 
 
