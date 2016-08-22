@@ -27,15 +27,15 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
         </div>
 
         <div class="item">
-          <img src="./images/calculus1_MA113.jpg" alt="Second slide">
+          <img src="./images/calculus2_MA114.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption white">
-              <h1>MA 113 011-014 Calculus I</h1>
+              <h1>MA 114 001-004 Calculus II</h1>
   <h2>Spring 2016</h2>
   <p>
-   <a class="btn btn-lg btn-primary showinfo" name="MA 113 011-014" href="http://www.ms.uky.edu/~ma113/s.16/" role="button">Course webpage</a>
-   <a class="btn btn-lg btn-primary" name="MA 113 011-014" href="https://courses1.webwork.maa.org/webwork2/uky-ma113" role="button">Online homework</a>   
-   <a class="btn btn-lg btn-primary showinfo" name="MA 113 011-014" href="/pages/courses/ma113-011-014-201601.html" role="button">Info Sections 011-014</a>
+   <a class="btn btn-lg btn-primary showinfo" name="MA 114 001-004" href="http://www.ms.uky.edu/~droyster/ma114F16/	" role="button">Course webpage</a>
+   <a class="btn btn-lg btn-primary" name="MA 114 001-004" href="http://webwork.as.uky.edu/webwork2/MA114F16/" role="button">Online homework</a>   
+   <a class="btn btn-lg btn-primary showinfo" name="MA 114 001-004" href="/pages/courses/ma114-001-004-201602.html" role="button">Info Sections 001-004</a>
 
 
   </p>
