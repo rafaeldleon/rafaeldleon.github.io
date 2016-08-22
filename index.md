@@ -20,7 +20,7 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
   <p>
    <a class="btn btn-lg btn-primary showinfo" name="MA/CS 415G 001" href="/pages/courses/ma415G001-201602.html" role="button">Course webpage</a>
    <a class="btn btn-lg btn-primary" name="MA/CS 415G 001" href="/pages/courses/homeworkma415G001-201602.html" role="button">Homework</a>
-  </p>
+	  </p>
             </div>
           </div>
         </div>
