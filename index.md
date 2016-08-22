@@ -12,15 +12,14 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
 
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img src="./images/matrix_algebra_322.jpg" alt="First slide">
+          <img src="./images/complete_graphs.png" alt="First slide">
           <div class="container">
             <div class="carousel-caption white">
-              <h1>MA 322 003 Matrix Algebra and its Applications</h1>
+              <h1>MA/CS 415G Combinatorics and Graph Theory</h1>
   <h2>Spring 2016</h2>
   <p>
-   <a class="btn btn-lg btn-primary showinfo" name="MA 322 003" href="/pages/courses/ma322003-201601.html" role="button">Course webpage</a>
-   <a class="btn btn-lg btn-primary" name="MA 322 003" href="http://webwork.as.uky.edu/webwork2/MA322003S16" role="button">Homework</a>
-   <a class="btn btn-lg btn-primary showinfo" name="MA 322 003" href="/pages/courses/suggestedproblemsma322003-201601.html" role="button">Suggested exercises</a>  
+   <a class="btn btn-lg btn-primary showinfo" name="MA/CS 415G 001" href="/pages/courses/ma415G001-201602.html" role="button">Course webpage</a>
+   <a class="btn btn-lg btn-primary" name="MA/CS 415G 001" href="/pages/courses/homeworkma415G001-201602.html" role="button">Homework</a>
   </p>
             </div>
           </div>

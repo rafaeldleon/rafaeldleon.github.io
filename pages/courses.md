@@ -11,8 +11,8 @@ title: Courses
     </div>
     <div id="collapseOne" class="accordion-body collapse in">
       <div class="accordion-inner">
-      <a name="MA 322 003" href="/pages/courses/ma322003-201601.html" class="showinfo">MA 322 003. Matrix Algebra.</a> <br>
-	   <a name="MA 214 006" href="http://www.ms.uky.edu/~ma113/s.16/" class="showinfo">MA 113 011-014. Calculus I.</a> <br>
+      <a name="MA 415G 001" href="/pages/courses/ma415G001-201602.html" class="showinfo">MA 415G 001. Combinatorics and Graph Theory.</a> <br>
+	   <a name="MA 114 001-004" href="http://www.ms.uky.edu/~droyster/ma114F16/" class="showinfo">MA 114 001-004. Calculus II.</a> <br>
 
 
       </div>
@@ -26,6 +26,9 @@ title: Courses
     </div>
     <div id="collapseTwo" class="accordion-body collapse">
       <div class="accordion-inner">
+      <strong>2016 </strong><br>
+      <a name="MA 322 003" href="/pages/courses/ma322003-201601.html" class="showinfo">MA 322 003. Matrix Algebra.</a> <br>
+	   <a name="MA 114 011-014" href="http://www.ms.uky.edu/~ma113/s.16/" class="showinfo">MA 113 011-014. Calculus I.</a> <br>
       <strong>2015 </strong><br>
       <a name="MA 415G 001" href="/pages/courses/ma415G001-201502.html" class="showinfo">MA 415G 001. Combinatorics and Graph Theory.</a> <br>
       <a name="MA 322 002" href="/pages/courses/ma322002-201501.html" class="showinfo">MA 322 002. Matrix Algebra.</a> <br>
