@@ -9,14 +9,8 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
 
 <h2>Upcoming events and activities</h2>
 
-
-<p>September 24-25, 2016 AMS Special Session on Plethysm and Kronecker Products, Brunswick, ME, USA.</p>
-<p>November 7-11, 2016. Workshop "Polyhedral geometry and partition theory". American Institute of Mathematics, San Jose, CA, USA.</p>
-<p>November 14, 2016. Algebra and Discrete Mathematics seminar at UC Davis, Davis, CA, USA.</p>
-<p>November 16, 2016. Algebra-Geometry-Combinatorics seminar at SFSU, San Francisco, CA, USA.</p>
-<p>January 4-7, 2017. AMS Special Session on Applications of Partially Ordered Sets in Algebraic, 
-Topological, and Enumerative Combinatorics at the 2017 Joint Mathematics Meetings, Atlanta, GA, USA</p>
 <p>April 1-2, 2017 AMS Special Session on Algebraic and Enumerative Combinatorics with Applications, Bloomington, IN, USA.</p>
+<p>July 17-28, 2017 D&iacute;as de Combinatoria 2017 <a href="http://dias2017.combinatoria.co/">http://dias2017.combinatoria.co/</a>. Medellin, Colombia. </p>
 
 <h2>Preprints and Publications</h2>
 
