@@ -6,15 +6,14 @@ title: Contact Information
 <img border="0" src="/personal/profile_picture.jpg" alt="Profile Picture"  width="15%" height="15%">
 <br/><br/>
 <h3>Rafael S. Gonz&aacute;lez D'le&oacute;n</h3>
-Postdoctoral Scholar
+Docente Investigador
 <br/>
-<a href="http://www.math.uky.edu/">Department of Mathematics</a> <br/>
-<a href="http://www.uky.edu/">University of Kentucky</a> <br/>
+<span>Departamento de Matem&aacute;ticas</span> <br/>
+<a href="http://www.usergioarboleda.edu.co/">Universidad Sergio Arboleda</a> <br/>
 <h2>Address</h2>
-Patterson Office Tower, Room 767 <br/>
-Lexington KY 40506-0027<br/>
-Email: rafaeldleon at uky.edu <br/>
-Phone: 859-257-4802<br/>
+Calle 74 # 14-14 Bogot&aacute;, Colombia <br/>
+Email: rafael.gonzalezl at usa.edu.co <br/>
+
 						
 
 						

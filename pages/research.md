@@ -9,8 +9,15 @@ title: Rafael S. Gonz&aacute;lez D'le&oacute;n's Web Page
 
 <h2>Upcoming events and activities</h2>
 
-<p>April 1-2, 2017 AMS Special Session on Algebraic and Enumerative Combinatorics with Applications, Bloomington, IN, USA.</p>
-<p>July 17-28, 2017 D&iacute;as de Combinatoria 2017 <a href="http://dias2017.combinatoria.co/">http://dias2017.combinatoria.co/</a>. Medellin, Colombia. </p>
+<p>September 25, 2017 Applied Algebra seminar. York University, Toronto, ON, CA. </p>
+<p>October 16, 2017 Discrete CATS seminar. University of kentucky, Lexington, KY, US. </p>
+<p>June 4-15, 2018 Encuentro Colombiano de Combinatoria ECCO 2018 
+<a href="http://ecco2018.combinatoria.co/">http://ecco2018.combinatoria.co/</a>. 
+Universidad del Norte, Barranquilla, Colombia. </p>
+<p>July 26-29, 2018 ICM Satellite Conference: A Pan-Hemispheric Celebration of
+Mathematics in Miami. University of Miami, Coral Gables, FL, US. </p>
+
+
 
 <h2>Preprints and Publications</h2>
 
