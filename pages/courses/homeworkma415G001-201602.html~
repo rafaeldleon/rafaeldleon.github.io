@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+<html> 	
+	<head>
+	     	<meta http-equiv="Content-Language" content="EN" />	 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 	
+	     		<title>Homework MA/CS 415G 001 Combinatorics and Graph Theory</title>
+		
+		<!-- Stylesheets for the printed-friendly version -->
+		<link rel="stylesheet" href="../../css/style.css" type="text/css" media="print" />		
+		<link rel="stylesheet" href="../../css/personal-theme/jquery-ui-1.8.4.custom.css" type="text/css" media="print" />
+		
+      <link type="text/css" href="../../css/personal-theme/jquery-ui-1.8.4.custom.css" rel="stylesheet" /> 		
+      <style type="text/css" media="screen">@import "../../css/style.css";</style>	 	
+   </head>
+	<body>
+	
+<h2>Written homework</h2>
+The suggested exercises are taken from the book: A first course in discrete mathematics. Ian Anderson.
+The problems that you have to hand in are the ones in the column "Homework".
+
+<br><br>
+				<table class="ui-widget ui-widget-content" cellpadding="0" cellspacing="0" border="1" align="center" width="95%" frame="border" rules="all">
+				<thead align="center">
+					<tr class="ui-widget-header "><th width="20%">Due date</th><th width="30%">Homework</th><th width="30%">Suggested problems</th><th width="20%">Posted on</th></tr>
+				</thead>
+				<tbody align="center">
+				
+
+						
+								
+					<tr><td>Fri 9/02</td><td><a href="files/hwk1_ma415_fall2016.pdf">Homework 1</a></td><td><a href="files/intro_proofs.pdf">Review proofs</a></td><td>Wed 8/24</td></tr>
+					<tr><td>Fri 9/09</td><td><a href="files/hwk2_ma415_fall2016.pdf">Homework 2</a></td><td>1.1, 1.2, 1.7, 1.10, 1.17, 1.19</td><td>Fri 9/02</td></tr>
+					<tr><td>Fri 9/23</td><td><a href="files/hwk3_ma415_fall2016.pdf">Homework 3</a></td><td>1.5, 1.13, 1.14, 1.15, 1.16</td><td>Thu 9/15</td></tr>
+					<tr><td>Fri 9/30</td><td><a href="files/hwk4_ma415_fall2016.pdf">Homework 4</a></td><td>2.1, 2.2, 2.3, 2.5, 2.7, 2.9, 2.11, 2.14</td><td>Thu 9/22</td></tr>
+					<tr><td>Mon 10/10</td><td><a href="files/hwk5_ma415_fall2016.pdf">Homework 5</a></td><td>2.4, 2.16, 2.17, 2.18, 2.20 </td><td>Fri 09/30</td></tr>
+					<tr><td>Fri 10/21</td><td><a href="files/hwk6_ma415_fall2016.pdf">Homework 6</a></td><td>All from 3.1 to 3.6 </td><td>Fri 10/14</td></tr>
+					<tr><td>Fri 10/28</td><td><a href="files/hwk7_ma415_fall2016.pdf">Homework 7</a></td><td>3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.16 </td><td>Sat 10/22</td></tr>						
+					<tr><td>Mon 11/07</td><td><a href="files/hwk8_ma415_fall2016.pdf">Homework 8</a></td><td>3.13, 3.15, 3.16, 4.1, 4.2(a), 4.3(a),4.6 </td><td>Mon 10/31</td></tr>											
+					<tr><td>Fri 11/18</td><td><a href="files/hwk9_ma415_fall2016.pdf">Homework 9</a></td><td>4.4, 4.5, 4.8, 4.9, 4.12, 4.13 </td><td>Fri 11/04</td></tr>											
+					<tr><td>Fri 12/02</td><td><a href="files/hwk10_ma415_fall2016.pdf">Homework 10</a></td><td>5.11, 5.12, 5.13, 5.14, 5.15, 5.16, 5.18, 5.19</td><td>Sun 11/20</td></tr>																						
+					<tr><td>Fri 12/09</td><td><a href="files/hwk11_ma415_fall2016.pdf">Homework 11</a></td><td>5.1, 5.2, 5.4, 5.5, 5.6, 5.7, 5.8, 5.9, 5.10</td><td>Fri 12/02</td></tr>																									
+				</tbody>
+			</table>	
+	
+	</body>	
+</html>

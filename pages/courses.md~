@@ -1,0 +1,65 @@
+---
+layout: master
+title: Courses
+---
+<div class="accordion" id="accordion2">
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+        <h3> Currently at University of Kentucky </h3>
+      </a>
+    </div>
+    <div id="collapseOne" class="accordion-body collapse in">
+      <div class="accordion-inner">
+      <a name="MA 714 001" href="/pages/courses/ma714001-201701.pdf" class="showinfo">MA 714 001. Topics in Algebraic Combinatorics: Poset Cohomology and Combinatorial Species.</a> <br>
+
+      </div>
+    </div>
+  </div>
+<div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+        <h3> At University of Kentucky </h3>
+      </a>
+    </div>
+    <div id="collapseTwo" class="accordion-body collapse">
+      <div class="accordion-inner">
+      <strong>2016 </strong><br>
+      <a name="MA 415G 001" href="/pages/courses/ma415G001-201602.html" class="showinfo">MA 415G 001. Combinatorics and Graph Theory.</a> <br>
+	   <a name="MA 114 001-004" href="http://www.ms.uky.edu/~droyster/ma114F16/" class="showinfo">MA 114 001-004. Calculus II.</a> <br>
+      <a name="MA 322 003" href="/pages/courses/ma322003-201601.html" class="showinfo">MA 322 003. Matrix Algebra.</a> <br>
+	   <a name="MA 114 011-014" href="http://www.ms.uky.edu/~ma113/s.16/" class="showinfo">MA 113 011-014. Calculus I.</a> <br>
+      <strong>2015 </strong><br>
+      <a name="MA 415G 001" href="/pages/courses/ma415G001-201502.html" class="showinfo">MA 415G 001. Combinatorics and Graph Theory.</a> <br>
+      <a name="MA 322 002" href="/pages/courses/ma322002-201501.html" class="showinfo">MA 322 002. Matrix Algebra.</a> <br>
+	<a name="MA 214 006" href="/pages/courses/ma214006-201501.html" class="showinfo">MA 214 006. Calculus IV.</a> <br>
+ 	<strong>2014 </strong><br>
+	<a name="MA 322 001" href="/pages/courses/ma322001-201402.html" class="showinfo">MA 322 001. Matrix Algebra.</a> <br>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+        <h3> At University of Miami </h3>
+      </a>
+    </div>
+    <div id="collapseThree" class="accordion-body collapse">
+      <div class="accordion-inner">
+         <strong>2012 </strong><br>
+    <a name="MTH 162 55" href="/pages/courses/mth16255-201201.html" class="showinfo">MTH 162 55. Calculus 2.</a> <br>
+								
+    <strong>2011</strong><br>
+    <a name="MTH 161 11" href="/pages/courses/mth16111-201102.html" class="showinfo">MTH 161 11. Calculus 1.</a><br>
+    <a name="MTH 107 B" href="/pages/courses/mth107b-201101.html" class="showinfo">MTH 107 B. Precalculus 1.</a><br>
+								
+    <strong>2010</strong><br>
+    <a name="MTH 161 DN" href="/pages/courses/mth161dn-201002.html" class="showinfo">MTH 161 DN. Calculus 1.</a> <br>
+    MTH 112. Calculus 2. (Recitation)<br>
+								
+    <strong>Fall 2009</strong><br>
+    MTH 110.Calculus 1. (Lab)<br>
+      </div>
+    </div>
+  </div>
+</div>
