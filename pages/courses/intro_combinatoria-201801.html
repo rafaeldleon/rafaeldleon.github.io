@@ -1,177 +1,129 @@
 <!DOCTYPE html> <html> 	<head>
 	     	<meta http-equiv="Content-Language" content="EN" />	 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 	
-	     		<title>MA/CS 415G 001 Combinatorics and Graph Theory</title>
+	     		<title>Combinatoria y teor&iacute;a de grafos</title>
 		
-		<!-- Stylesheets for the printed-friendly version -->
-		<link rel="stylesheet" href="../../css/local.css" type="text/css" media="print" />		
-		<link rel="stylesheet" href="../../css/personal-theme/jquery-ui-1.8.4.custom.css" type="text/css" media="print" />
 		
-      <link type="text/css" href="../../css/personal-theme/jquery-ui-1.8.4.custom.css" rel="stylesheet" /> 		<style type="text/css" media="screen">@import "../../css/style.css";</style>	 	</head>
-	<body>
- 		<h1 class="t">MA/CS 415G 001 Combinatorics and Graph Theory</h1>
+		<!-- Bootstrap core CSS -->
+    <link href="../../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+     <!-- Stylesheets  -->
+		<link  href="../../css/local.css" rel="stylesheet">		
+	
+		<body>
+ 		<h1 class="t"> Combinatoria y teor&iacute;a de grafos</h1>
  		<strong>Instructor:</strong> <em>Rafael S. Gonz&aacute;lez D'Le&oacute;n</em><br>
- 		<strong>Email:</strong> <em>rafaeldleon@uky.edu</em><br>
- 		<strong>Homepage:</strong> <em>http://www.ms.uky.edu/~rsgo226</em><br>
- 		<strong>Office:</strong> <em>Patterson Office Tower, Room 767.</em><br>
- 		<strong>Office Hours:</strong> <em> Thursdays 2:00PM to 3:00PM or by appointment.<br>
+ 		<strong>Email:</strong> <em>rafael.gonzalezl@usa.edu.co</em><br>
+ 		<strong>Homepage:</strong> <a href="http://dleon.combinatoria.co">http://dleon.combinatoria.co</a><br>
+ 		<strong>Atenci&oacute;n a estudiantes:</strong> <em> Por cita programada.<br>
  		
 
  		<div id="main">
- 			<h2>Lectures</h2>
- 			Monday, Wednesday and Fridays 1:00pm-1:50pm CB 339. <br>
- 			<h2>Literature</h2>
- 			<em>A First Course in Discrete Mathematics.</em> Ian Anderson.
- 			<h2>Course Contents</h2>
- 			This course is a basic course in the theory of counting and graph theory. Counting. Subsets and binomial coefficients.
- 			Partitions and Stirling numbers. Permutations and permutation statistics. Fibonacci and Catalan numbers. 
- 			The inclusion-exclusion principle.
- 			Recurrences. Generating functions. Graphs. Eulerian and Hamiltonian cycles. Graph colouring. 
- 			Most of chapters 1 to 6 from Anderson's book.
+ 			<h2>Clases</h2>
+ 			<span>Lunes 4:00-6:00 pm y viernes 6:00-8:00 pm. <br></span>
+ 			<h2>Literatura</h2>
+ 			<span><em>A First Course in Discrete Mathematics.</em> Ian Anderson.<br>
+ 			<em>Notas de clase (<a href="files/notas_de_clase_combinatoria.pdf"> en PDF</a>).</em></span>
+ 			<h2>Contenido del curso</h2>
+ 			<span>
+        	La combinatoria es la rama de la matem&aacute;tica que se encarga de la enumeraci&oacute;n y estructura de familias 
+        	de objetos discretos. Un grafo es un objeto discreto formado por un conjunto de nodos y un conjunto de 
+        	aristas entre ellos.  La teor&iacute;a de grafos se encarga entonces de la enumeraci&oacute;n y el estudio de las 
+        	propiedades estructurales de familias de grafos. Este es principalmente un curso introductorio a la teor&iacute;a 
+        	de enumeraci&oacute;n combinatoria en donde usaremos la teor&iacute;a de grafos como campo de juego en donde usar 
+        	herramientas combinatorias. Desde el punto de vista enumerativo se cubrir&aacute;n los principios b&aacute;sicos de conteo; 
+        	permutaciones y n&uacute;meros factoriales; subconjuntos y coeficientes binomiales; composiciones y composiciones 
+        	d&eacute;biles; particiones de conjuntos y n&uacute;meros de Stirling; n&uacute;meros de Fibonacci y n&uacute;meros de Catalan; 
+        	recurrencias; funciones generatrices; y el principio de inclusi&oacute;n-exclusi&oacute;n (PIE). 
+        	De la teor&iacute;a de grafos se cubrir&aacute;n las definiciones b&aacute;sicas de grafos; caminos, caminatas y ciclos; &aacute;rboles 
+        	generadores o de expansi&oacute;n; grafos bipartitos; planaridad y el teorema de Kuratowski; grafos Hamiltonianos 
+        	y Eulerianos.; poliedros; y coloraciones de grafos  y el polinomio crom&aacute;tico. 	</span>		
  			
- 			<h2>Examination and Grading</h2>
- 			<h3>Tests (30%)</h3>
- 			There will be 2 tests. These will be announced at least one week in advance.
+ 			<h2>Distribuci&oacute;n de las notas</h2>
+ 			<h3>Parciales (30%)</h3>
+ 			<span>Habr&aacute; dos parciales. La fecha de estos se avisar&aacute; con al menos una semana de anticipaci&oacute;n.</span>
  			<h3>Final (30%)</h3>
- 			There will be a comprehensive final to be worth 30%.
- 			<h3>Homework and Quizzes(40%)</h3>
- 			There will be a set of problems to be handed in at the end of every week. To work on the homework problems is
- 			crucial for your understanding of the material presented in class. Be sure to separate enough time each week
- 			to think and write your solutions.  <em>It is recommended that you think and attempt every problem on your own before
- 			seeking any help</em>. You are encouraged to discuss the material of the course with your classmates, however you must 
- 			write your own solutions using your own words. There can be unannounced quizzes that will count towards your homework grade.
+ 			<span>Habr&aacute; un ex&aacute;men final sobre todo el contenido del programa por un valor del 30%.</span>
+ 			<h3>Tareas y quizzes (40%)</h3>
+ 			<span>Habr&aacute; conjuntos de problemas que se asignar&aacute;n aproximadamente cada semana y que deber&aacute;n ser entregados
+ 			a la semana siguiente. Trabajar en los problemas de tarea es fundamental para el entendimiento del material presentado en
+ 			clase. Aseg&uacute;rese de separar tiempo suficiente de cada semana para pensar y escribir sus soluciones.<em> Se recomienda que
+ 			le piense e intente cada problema por su propia cuenta antes de buscar ayuda</em>. Se invita a los estudiantes a que discutan
+ 			 el material del curso con sus compa&ntilde;eros, sin embargo cada estudiante debe escribir sus propias soluciones y en sus
+ 			 propias palabras. Pueden haber algunos quizzes que no ser&aacute;n anunciados y tambi&eacute;n contar&aacute;n hacia la nota
+ 			 final. La distribuci&oacute;n de las tareas seg&uacute;n los cortes ser&aacute; de 15% en el primer corte, 15% en el segundo
+ 			 corte, y 10% en el tercer corte.</span>
  			
- 			<h3>Problem Sessions</h3>
- 			There will be various in-class problem sessions during the semester whose goal is to reinforce the concepts learned 
- 			during a given week. During the problem sessions you are strongly encouraged to share what you have learned and 
- 			to learn from your fellow class mates (share and learn).<br>
+ 			<h3>Sesiones de problemas</h3>
+ 		   <span>Habr&aacute; varias sesiones de problemas en clase durante el semestre con el objetivo de reforzar los conceptos aprendidos
+ 		   en cada semana. Durante las sesiones de problemas se invita a los estudiantes a que compartan lo que han aprendido y que 
+ 		   aprendan de sus compa&ntilde;eros de clase.<br></span>
  			
- 			<h3>Suggested problems</h3>
- 			There will be some additional suggested problems. These problems will be assigned after some of the
- 			classes and also posted in the web page of the course.<br>
+ 			<h3>Problemas sugeridos</h3>
+ 			<span>Habr&aacute; tambi&eacute;n algunos problemas sugeridos adicionales. Estos problemas ser&aacute; asignados en
+ 			algunas de las clases.<br></span>
 			
- 			<h3>Grading Scale</h3>
- 			<table class="ui-widget ui-widget-content" cellpadding="0" cellspacing="0" border="1" frame="box" rules="all"> 				
- 				<thead>
-					<tr class="ui-widget-header "><th>Percentage</th><th>Grade</th></tr>
-				</thead>
-				<tbody align="center">
-					<tr><td>>=90%</td><td>A</td></tr>
-					<tr><td>>=80%</td><td>B</td></tr>
-					<tr><td>>=70%</td><td>C</td></tr>
-					<tr><td>>=60%</td><td>D</td></tr>
-					<tr><td><60%</td><td>E</td></tr>
-				</tbody>
-			</table>
-			
-			<h2>Syllabus</h2>
-			This is an approximate schedule of the course containing the syllabus:
+			<h2>Programa</h2>
+			<span>Este es un programa aproximado del contenido del curso:</span>
 			<table class="ui-widget ui-widget-content" cellpadding="0" cellspacing="0" border="1" align="center" width="95%" frame="border" rules="all">
 				<thead align="center">
-					<tr class="ui-widget-header "><th width="20%">Date</th><th width="80%">Topic</th></tr>
+					<tr class="ui-widget-header "><th width="20%">Fecha</th><th width="80%">Tema</th></tr>
 				</thead>
 				<tbody align="center">
 				
 
 
-					<tr><td>Wed 08/24</td><td>Introduction. What is combinatorics?</td></tr>
-					<tr><td>Fri 08/26</td><td>Review of mathematical proofs.</td></tr>
+					<tr><td>Lun 01/22</td><td>Introducci&oacute;n. &iquest;Qu&eacute; es la combinatoria? Repaso demostraciones matem&aacute;ticas.</td></tr>
+					<tr><td>Vie 01/26</td><td>Principios b&aacute;sicos de conteo. Permutaciones y factoriales</td></tr>
+					<tr><td>Lun 01/29</td><td>Combinaciones y selecciones</td></tr>
+					<tr><td>Vie 02/02</td><td>Combinaciones y selecciones</td></tr>
+					<tr><td>Lun 02/05</td><td>Coeficientes binomiales y el tri&aacute;ngulo de Pascal</td></tr>
+					<tr><td>Vie 02/09</td><td>Selecciones con repeticiones y composiciones</td></tr>
+					<tr><td>Lun 02/12</td><td>Selecciones con repeticiones y composiciones</td></tr>
+					<tr><td>Vie 02/16</td><td>Un teorema de inversi&oacute;n matricial</td></tr>
+					<tr><td>Lun 02/19</td><td>Recurrencias</td></tr>
+					<tr><td>Vie 02/23</td><td>M&eacute;todo de la ecuaci&oacute;n auxiliar</td></tr>
+					<tr><td>Lun 02/26</td><td>M&eacute;todo de la ecuaci&oacute;n auxiliar</td></tr>
 					
-					<tr><td>Mon 08/29</td><td>Basic Principles of counting. Permutations and factorials</td></tr>
-					<tr><td>Wed 08/31</td><td>Combinations and selections</td></tr>
-					<tr><td>Fri 09/02</td><td>Combinations and selections</td></tr>
-				
-					<tr><td>Mon 09/05</td><td>ACADEMIC HOLIDAY. LABOR DAY</td></tr>
-					<tr><td>Wed 09/07</td><td>Binomial coefficients and Pascal's triangle</td></tr>
-					<tr><td>Fri 09/09</td><td>Binomial coefficients and Pascal's triangle</td></tr>
-				
-					<tr><td>Mon 09/12</td><td>Selections with repetitions, Compositions</td></tr>
-					<tr><td>Wed 09/14</td><td>A useful matrix inversion</td></tr>
-					<tr><td>Fri 09/16</td><td>A useful matrix inversion</td></tr>
+					<tr><td>Vie 03/02</td><td>Primer Parcial</td></tr>
+					<tr><td>Lun 03/05</td><td>Funciones generatrices</td></tr>
+					<tr><td>Vie 03/09</td><td>Funciones generatrices</td></tr>
 					
-					<tr><td>Mon 09/19</td><td>Recurrences</td></tr>
-					<tr><td>Wed 09/21</td><td>Auxiliary equation method</td></tr>
-					<tr><td>Fri 09/23</td><td>Auxiliary equation method</td></tr>
+					<tr><td>Lun 03/12</td><td>Desarreglos. Algoritmos de ordenamiento</td></tr>
+					<tr><td>Vie 03/16</td><td>N&uacute;meros de Catalan</td></tr>
+					<tr><td>Vie 03/23</td><td>Grafos</td></tr>
 					
-					<tr><td>Mon 09/26</td><td>Generating functions</td></tr>
-					<tr><td>Wed 09/28</td><td>Generating functions</td></tr>
-					<tr><td>Fri 09/30</td><td>Derangements. Sorting algorithms</td></tr>
+					<tr><td>Lun 04/02</td><td>Caminos y &aacute;rboles</td></tr>
+					<tr><td>Vie 04/06</td><td>&Aacute;rboles de expansi&oacute;n</td></tr>
+					<tr><td>Lun 04/09</td><td>&Aacute;rboles de expansi&oacute;n</td></tr>
 					
-					<tr><td>Mon 10/03</td><td>Derangements. Sorting algorithms</td></tr>
-					<tr><td>Wed 10/05</td><td>Test 1 Review</td></tr>
-					<tr><td>Fri 10/07</td><td>Test 1</td></tr>
+					<tr><td>Vie 04/13</td><td>Grafos bipartitos. Planaridad</td></tr>
+					<tr><td>Lun 04/16</td><td>Poliedros</td></tr>
+					<tr><td>Vie 04/20</td><td>Segundo Parcial</td></tr>
 					
-					<tr><td>Mon 10/10</td><td>Catalan numbers</td></tr>
-					<tr><td>Wed 10/12</td><td>Graphs</td></tr>
-					<tr><td>Fri 10/14</td><td>Graphs</td></tr>
+					<tr><td>Lun 04/23</td><td>Grafos Hamiltonianos</td></tr>
+					<tr><td>Vie 04/27</td><td>Problema del agente viajero</td></tr>
+					<tr><td>Lun 04/30</td><td>Grafos Eulerianos</td></tr>
 					
-					<tr><td>Mon 10/17</td><td>Paths and Trees</td></tr>
-					<tr><td>Wed 10/19</td><td>Spanning trees</td></tr>
-					<tr><td>Fri 10/21</td><td>Spanning trees</td></tr>
+					<tr><td>Vie 05/04</td><td>Particiones</td></tr>
+					<tr><td>Lun 05/07</td><td>Particiones</td></tr>
+					<tr><td>Vie 05/11</td><td>Coloraciones de grafos y el polinomio crom&aacute;tico</td></tr>
 					
-					<tr><td>Mon 10/24</td><td>Bipartite graphs. Planarity</td></tr>
-					<tr><td>Wed 10/26</td><td>Chords of a circle. Polyhedra</td></tr>
-					<tr><td>Fri 10/28</td><td>Chords of a circle. Polyhedra</td></tr>
-					
-					<tr><td>Mon 10/31</td><td>Hamiltonian Graphs</td></tr>
-					<tr><td>Wed 11/02</td><td>The travelling salesman proble</td></tr>
-					<tr><td>Fri 11/04</td><td>Eulerian graphs</td></tr>
-					
-					<tr><td>Mon 11/07</td><td>Eulerian graphs</td></tr>
-					<tr><td>Wed 11/09</td><td>Test 2 Review</td></tr>
-					<tr><td>Fri 11/11</td><td>Test 2</td></tr>
-					
-					
-					<tr><td>Mon 11/14</td><td>Graph colouring</td></tr>
-					<tr><td>Wed 11/16</td><td>Chromatic polynomial</td></tr>
-					<tr><td>Fri 11/18</td><td>Partitions</td></tr>
-					
-					<tr><td>Mon 11/21</td><td>Partitions</td></tr>
-					<tr><td>Wed 11/23</td><td>THANKSGIVING HOLIDAY</td></tr>
-					<tr><td>Fri 11/25</td><td>THANKSGIVING HOLIDAY</td></tr>
-					
-					<tr><td>Mon 11/28</td><td>Partitions</td></tr>
-					<tr><td>Wed 11/30</td><td>The inclusion-exclusion principle</td></tr>
-					<tr><td>Fri 12/02</td><td>The inclusion-exclusion principle</td></tr>
-					
-					<tr><td>Mon 12/05</td><td>Applications of the IEP</td></tr>
-					<tr><td>Wed 12/07</td><td>Applications of the IEP</td></tr>
-					<tr><td>Fri 12/09</td><td>Review Final</td></tr>					
+					<tr><td>Vie 05/18</td><td>Principio de Inclusi&oacute;n-Exclusi&oacute;n (PIE)</td></tr>
 				
 				</tbody>
 			</table>
 			
-			<h2>Calculators Policy</h2>
-			Calculators are not allowed in quizzes, tests or the final exam.
+			<h2>Pol&iacute;tica sobre calculadoras</h2>
+			<span>Calculadoras no ser&aacute;n permitidas en quizzes, parciales o ex&aacute;men final.</span>
 				
-			<h2>Code of Conduct</h2>
-			Students should consult the students rights and responsibilities outlined in the 
-			<a href="http://www.uky.edu/StudentAffairs/Code/index.html">Student Code of Conduct.</a> 
-			Any offense to the Code of Conduct will result in a grade of "E" for the course and a referral to 
-			the Dean of Students.
-			
-			<h2>Excused Absences</h2>
-			University Senate Rule 5.2.4.2 defines the following acceptable reasons for an ”excused absence” from class:
-			<ul>
-			<li>Serious illness (must be documented by doctor’s excuse)</li>
-			<li>Illness or death of a family member</li>
-			<li>University-related trips (must be documented by a letter from sponsor)</li>
-			<li>Major religious holidays</li>
-			<li>Other circumstances that your instructor finds to be ”reasonable cause for nonattendence”</li>
-			</ul>
-			Students should notify the instructor of an excused absence prior to the absence whenever 
-			possible and complete all work prior to the absence (unless for illness or for the illness or
-			death of a family member).
- 			
-			<h2>Students with Disabilities</h2>
-			Students with documented physical‚ learning‚ or temporary disabilities may receive assistance and support 
-			from the <a href="http://www.uky.edu/StudentAffairs/DisabilityResourceCenter/">Disability Resource Center</a>.
-			It is recommended that students contact the Disability Resource Center early to request specific assistance 
-			so that the required medical or psychological documentation can be reviewed and reasonable accommodations 
-			can be provided from the beginning of class work in order to achieve the greatest benefit to the student.
-
-			<h2>Changes to this Syllabus</h2>
-			This syllabus may have some changes during the semester. It is responsibility of the students to visit frequently
-			the webpage of the course for up to date information. 
+			<h2>C&oacute;digo of conducta</h2>
+			<span>Los estudiantes deben consultar los derechos y deb&eacute;res del estudiante en el
+			<a href="http://www.usergioarboleda.edu.co/institucional/#reglamento_estudiantil">Reglamento estudiantil.</a>
+			Cualquier ofensa a los lineamientos dispuestos por la universidad iniciar&aacute; los procedimientos disciplinarios establecidos.</span>
+		
+			<h2>Cambios a este programa</h2>
+			<span>Este programa podr&aacute; tener algunos cambios durante el semestre. Es responsabilidad del estudiante asistir a clase y visitar
+			frecuentemente la p&aacute;gina web del curso para mantenerse actualizado sobre estos cambios. </span>
+			 
  		</div>
 	</body>
 </html>
