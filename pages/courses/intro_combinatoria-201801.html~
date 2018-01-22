@@ -21,7 +21,7 @@
  			<span>Lunes 4:00-6:00 pm y viernes 6:00-8:00 pm. <br></span>
  			<h2>Literatura</h2>
  			<span><em>A First Course in Discrete Mathematics.</em> Ian Anderson.<br>
- 			<em>Notas de clase (<a href="notas_de_clase_combinatoria.pdf"> en PDF</a>).</em></span>
+ 			<em>Notas de clase (<a href="files/notas_de_clase_combinatoria.pdf"> en PDF</a>).</em></span>
  			<h2>Contenido del curso</h2>
  			<span>
         	La combinatoria es la rama de la matem&aacute;tica que se encarga de la enumeraci&oacute;n y estructura de familias 
@@ -71,7 +71,7 @@
 				
 
 
-					<tr><td>Lun 01/22</td><td>Introducci&oacute;n. &iquest;Qu&eacute; es la combinatoria? Repaso demostraciones matem&aacute;ticas.</td></tr>
+					<tr><td>Lun 01/22</td><td>Introducci&oacute;n. &iquest;Qu&eacute; es la combinatoria?</td></tr>
 					<tr><td>Vie 01/26</td><td>Principios b&aacute;sicos de conteo. Permutaciones y factoriales</td></tr>
 					<tr><td>Lun 01/29</td><td>Combinaciones y selecciones</td></tr>
 					<tr><td>Vie 02/02</td><td>Combinaciones y selecciones</td></tr>
