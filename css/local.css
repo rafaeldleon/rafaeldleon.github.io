@@ -18,12 +18,15 @@ p {
   line-height: 1.75; }
 
 a {
-  color: #fed136; }
+  color: #a58f48;
+  }
   a:hover {
-    color: #fec503; }
+    color: #e8dfc4;
+    }
 
 .text-primary {
-  color: #fed136 !important; }
+  color: #d6be78 !important;
+  }
 
 h1,
 h2,
@@ -35,7 +38,9 @@ h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 section {
-  padding: 100px 0; }
+  padding: 100px 0;
+  background-color: #a8a59ca8;
+  }
   section h2.section-heading {
     font-size: 40px;
     margin-top: 0;
@@ -51,7 +56,21 @@ section {
 @media (min-width: 768px) {
   section {
     padding: 150px 0; } }
+    
+.section-light {
+    background-color: #d6be788f!important;
+}   
+.section-light a{
+    color: #bd9f48!important;
+}    
 
+.section-light a:hover{
+    color: #bd9f48!important;
+} 
+
+section .fa-inverse {
+    color: #ffffffb5;
+}
 .btn {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700; }
@@ -76,7 +95,8 @@ section {
 
 ::selection {
   background: #fed136;
-  text-shadow: none; }
+  text-shadow: none;
+  }
 
 img::selection {
   background: transparent; }
@@ -99,19 +119,23 @@ body {
     background-color: #fed136;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   #mainNav .navbar-brand {
-    color: #fed136;
-    font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
+    color: #c5c3bd;
+    font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
+    }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-      color: #fec503; }
+      color: #d6be78;
+      }
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 90%;
     font-weight: 400;
     padding: 0.75em 0;
     letter-spacing: 1px;
-    color: white;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    color: #e0c67c;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-      color: #fed136; }
+      color: #f8f9fa;
+      }
 
 @media (min-width: 992px) {
   #mainNav {
@@ -147,7 +171,8 @@ header.masthead {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover; }
+  background-size: cover;
+  }
   header.masthead .intro-text {
     padding-top: 150px;
     padding-bottom: 100px; }
@@ -202,7 +227,8 @@ header.masthead {
       -moz-transition: all ease 0.5s;
       transition: all ease 0.5s;
       opacity: 0;
-      background: rgba(254, 209, 54, 0.9); }
+      background: rgb(214 190 120);
+      }
       #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
         opacity: 1; }
       #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -224,7 +250,8 @@ header.masthead {
     margin: 0 auto;
     padding: 25px;
     text-align: center;
-    background-color: #fff; }
+    background-color: #e8dab3;
+    }
     #portfolio .portfolio-item .portfolio-caption h4 {
       margin: 0;
       text-transform: none; }
@@ -438,7 +465,8 @@ header.masthead {
   .team-member img {
     width: 225px;
     height: 225px;
-    border: 7px solid #fff; }
+    border: 7px solid #e8dab3;
+    }
   .team-member h4 {
     margin-top: 25px;
     margin-bottom: 0;

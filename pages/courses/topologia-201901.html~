@@ -1,0 +1,126 @@
+<!DOCTYPE html> <html> 	<head>
+	     	<meta http-equiv="Content-Language" content="EN" />	 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 	
+	     		<title>Topolog&iacute;a</title>
+		
+		
+		<!-- Bootstrap core CSS -->
+    <link href="../../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+     <!-- Stylesheets  -->
+		<link  href="../../css/local.css" rel="stylesheet">		
+	
+		<body>
+ 		<h1 class="t"> Topolog&iacute;a</h1>
+ 		<strong>Instructor:</strong> <em>Rafael S. Gonz&aacute;lez D'Le&oacute;n</em><br>
+ 		<strong>Email:</strong> <em>rafael.gonzalezl@usa.edu.co</em><br>
+ 		<strong>Homepage:</strong> <a href="http://dleon.combinatoria.co">http://dleon.combinatoria.co</a><br>
+ 		<strong>Atenci&oacute;n a estudiantes:</strong> <em> Por cita programada.<br>
+ 		
+
+ 		<div id="main">
+ 			<h2>Clases</h2>
+ 			<span>Mi&eacute;rcoles 4:00-6:00 pm y Viernes 6:00-8:00 pm. <br></span>
+ 			<h2>Literatura</h2>
+ 			<span><em>Topolog&iacute;a (Segunda edici&oacute;n).</em> James R. Munkres.<br>
+ 			<h2>Contenido del curso</h2>
+ 			<span>
+          La topolog&iacute;a es la rama de la matem&aacute;tica que se encarga del estudio de las propiedades de objetos 
+          geom&eacute;tricos que se preservan despu&eacute;s de aplicar deformaciones de manera continua. Este es un curso
+          introductorio al &aacute;rea en donde se definir&aacute;n los conceptos de topolog&iacute;a funci&oacute;n continua
+          y se presentar&aacute;n los resultados cl&aacute;sicos m&aacute;s importantes.</span>		
+ 			
+ 			<h2>Distribuci&oacute;n de las notas</h2>
+ 			<h3>Parciales (40%)</h3>
+ 			<span>Habr&aacute; dos parciales. La fecha de estos se avisar&aacute; con al menos una semana de anticipaci&oacute;n.</span>
+ 			<h3>Proyecto final (20%)</h3>
+ 			<span>Habr&aacute; un trabajo final en el cual se le asignar&aacute; a los estudiantes un tema asociado con el curso que no haya sido cubierto. 
+ 			El trabajo consistir&aacute; en hacer la investigaci&oacute;n bibliogr&aacute;fica, aprender sobre el tema, preparar un documento corto en estilo 
+ 			art&iacute;culo y una presentaci&oacute;n en clase que se realizar&aacute; durante la semana de finales.</span>
+ 			
+ 			<h3>Tareas y quizzes (40%)</h3>
+ 			<span>Habr&aacute; conjuntos de problemas que se asignar&aacute;n uno cada corte y para el cu&aacute;l se dar&aacute;n dos semanas
+ 			 de tiempo para su entrega aproximadamente. Algunos de estos problemas se ir&aacute;n asignando conforme avance el curso y se le recomienda a 
+ 			 los estudiantes trabajar en estos problemas cuando sean asignados o sugeridos. Trabajar en los problemas de tarea es fundamental para 
+ 			 el entendimiento del material presentado en
+ 			clase. Aseg&uacute;rese de separar tiempo suficiente de cada semana para pensar y escribir sus soluciones.<em> Se recomienda que
+ 			le piense e intente cada problema por su propia cuenta antes de buscar ayuda</em>. Se invita a los estudiantes a que discutan
+ 			 el material del curso con sus compa&ntilde;eros, sin embargo cada estudiante debe escribir sus propias soluciones y en sus
+ 			 propias palabras. Pueden haber algunos quizzes que no ser&aacute;n anunciados y tambi&eacute;n contar&aacute;n hacia la nota
+ 			 de las tareas durante el corte. La distribuci&oacute;n de las tareas seg&uacute;n los cortes ser&aacute; de 10% en el primer corte, 10% en el segundo
+ 			 corte, y 20% en el tercer corte.</span>
+ 			
+ 			
+ 			<h3>Sesiones de problemas</h3>
+ 		   <span>Habr&aacute; varias sesiones de problemas en clase durante el semestre con el objetivo de reforzar los conceptos aprendidos
+ 		   en cada semana. Durante las sesiones de problemas se invita a los estudiantes a que compartan lo que han aprendido y que 
+ 		   aprendan de sus compa&ntilde;eros de clase.<br></span>
+ 			
+ 			<h3>Problemas sugeridos</h3>
+ 			<span>Habr&aacute; tambi&eacute;n algunos problemas sugeridos adicionales. Estos problemas ser&aacute; asignados en
+ 			algunas de las clases.<br></span>
+			
+			<h2>Programa</h2>
+			<span>Este es un programa aproximado del contenido del curso:</span>
+			<table class="ui-widget ui-widget-content" cellpadding="0" cellspacing="0" border="1" align="center" width="95%" frame="border" rules="all">
+				<thead align="center">
+					<tr class="ui-widget-header "><th width="20%">Fecha</th><th width="80%">Tema</th></tr>
+				</thead>
+				<tbody align="center">
+				
+
+
+					<tr><td>Lun 01/22</td><td>Introduci&oacute;n. Conceptos fundamentales. Funciones. </td></tr>
+					<tr><td>Mie 01/24</td><td>Cardinalidad. Relaciones. Clases de equivalencia.</td></tr>
+					<tr><td>Lun 01/29</td><td> Relaciones de orden, Axioma de elecci&oacute;n.</td></tr>
+					<tr><td>Mie 01/31</td><td>Introduci&oacute;n a la topolog&iacute;a. Espacio topol&oacute;gico.</td></tr>
+					<tr><td>Lun 02/05</td><td>Base de una topolog&iacute;a</td></tr>
+					<tr><td>Mie 02/07</td><td>La topolog&iacute;a de orden. La topolog&iacute;a de producto.</td></tr>
+					<tr><td>Lun 02/12</td><td>La topolog&iacute;a de subespacio.</td></tr>
+					<tr><td>Mie 02/14</td><td>Conjuntos cerrados y puntos l&iacute;mite.</td></tr>
+					<tr><td>Lun 02/19</td><td>Funciones continuas.</td></tr>
+					<tr><td>Mie 02/21</td><td>Espacios m&eacute;tricos.</td></tr>
+					<tr><td>Lun 02/26</td><td>Espacios m&eacute;tricos.</td></tr>
+					
+					<tr><td>Mie 02/28</td><td>Primer Parcial.</td></tr>
+					<tr><td>Lun 03/05</td><td>La topolog&iacute;a cociente.</td></tr>
+					<tr><td>Mie 03/07</td><td>Espacios conexos.</td></tr>
+					
+					<tr><td>Lun 03/12</td><td>Conexidad por caminos.</td></tr>
+					<tr><td>Mie 03/14</td><td>Compacidad</td></tr>
+					<tr><td>Mie 03/21</td><td>Compacidad</td></tr>
+					
+					<tr><td>Lun 04/02</td><td>Compacidad por punto l&iacute;mite.</td></tr>
+					<tr><td>Mie 04/04</td><td>Compacidad por punto l&iacute;mite.</td></tr>
+					<tr><td>Lun 04/09</td><td>Compacidad local.</td></tr>
+					
+					<tr><td>Mie 04/11</td><td>Axiomas de numerabilidad</td></tr>
+					<tr><td>Lun 04/16</td><td>Axiomas de separaci&oacute;n.</td></tr>
+					<tr><td>Mie 04/18</td><td>Segundo Parcial.</td></tr>
+					
+					<tr><td>Lun 04/23</td><td>Espacios normales. El teorema de metrizaci&oacute;n de Urysohn.</td></tr>
+					<tr><td>Mie 04/25</td><td>El lemma de Urysohn.</td></tr>
+					<tr><td>Lun 04/30</td><td>Paracompacidad.</td></tr>
+					
+					<tr><td>Mie 05/02</td><td>Variedades topol&oacute;gicas.</td></tr>
+					<tr><td>Lun 05/07</td><td>Espacios m&eacute;tricos completos.</td></tr>
+					<tr><td>Mie 05/09</td><td>Una curva que llena el espacio.</td></tr>
+					
+					<tr><td>Mie 05/16</td><td>Compacidad en espacios m&eacute;tricos.</td></tr>
+				
+				</tbody>
+			</table>
+			
+			<h2>Pol&iacute;tica sobre calculadoras</h2>
+			<span>Calculadoras no ser&aacute;n permitidas en quizzes, parciales o ex&aacute;men final.</span>
+				
+			<h2>C&oacute;digo of conducta</h2>
+			<span>Los estudiantes deben consultar los derechos y deb&eacute;res del estudiante en el
+			<a href="http://www.usergioarboleda.edu.co/institucional/#reglamento_estudiantil">Reglamento estudiantil.</a>
+			Cualquier ofensa a los lineamientos dispuestos por la universidad iniciar&aacute; los procedimientos disciplinarios establecidos.</span>
+		
+			<h2>Cambios a este programa</h2>
+			<span>Este programa podr&aacute; tener algunos cambios durante el semestre. Es responsabilidad del estudiante asistir a clase y visitar
+			frecuentemente la p&aacute;gina web del curso para mantenerse actualizado sobre estos cambios. </span>
+			 
+ 		</div>
+	</body>
+</html>
