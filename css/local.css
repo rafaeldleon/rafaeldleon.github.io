@@ -68,6 +68,17 @@ section {
     color: #bd9f48!important;
 } 
 
+.section-dark {
+    background-color: #a8a59ca8!important;
+}   
+.section-dark a{
+    color: #a58f48!important;
+}    
+
+.section-dark a:hover{
+    color: #a58f48!important;
+} 
+
 section .fa-inverse {
     color: #ffffffb5;
 }
