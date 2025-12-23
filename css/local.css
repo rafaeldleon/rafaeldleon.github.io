@@ -18,14 +18,14 @@ p {
   line-height: 1.75; }
 
 a {
-  color: #a58f48;
+  color: #6C1D45;
   }
   a:hover {
     color: #e8dfc4;
     }
 
 .text-primary {
-  color: #d6be78 !important;
+  color: #6C1D45 !important;
   }
 
 h1,
@@ -39,7 +39,7 @@ h6 {
 
 section {
   padding: 100px 0;
-  background-color: #a8a59ca8;
+  background-color: rgba(108, 29, 69, 0.05);
   }
   section h2.section-heading {
     font-size: 40px;
@@ -58,25 +58,25 @@ section {
     padding: 150px 0; } }
     
 .section-light {
-    background-color: #d6be788f!important;
+    background-color: #CBB6778f!important;
 }   
 .section-light a{
-    color: #bd9f48!important;
+    color: #6C1D45!important;
 }    
 
 .section-light a:hover{
-    color: #bd9f48!important;
+    color: #6C1D45!important;
 } 
 
 .section-dark {
-    background-color: #a8a59ca8!important;
+    background-color: rgba(108, 29, 69, 0.2)!important;
 }   
 .section-dark a{
-    color: #a58f48!important;
+    color: #CBB677!important;
 }    
 
 .section-dark a:hover{
-    color: #a58f48!important;
+    color: #CBB677!important;
 } 
 
 section .fa-inverse {
@@ -91,21 +91,21 @@ section .fa-inverse {
   padding: 20px 40px; }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136; }
+  background-color: #6C1D45;
+  border-color: #6C1D45; }
   .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-    background-color: #fec810 !important;
-    border-color: #fec810 !important;
+    background-color: #5a1839 !important;
+    border-color: #5a1839 !important;
     color: white; }
   .btn-primary:active, .btn-primary:focus {
-    box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important; }
+    box-shadow: 0 0 0 0.2rem rgba(108, 29, 69, 0.5) !important; }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #6C1D45;
   text-shadow: none; }
 
 ::selection {
-  background: #fed136;
+  background: #6C1D45;
   text-shadow: none;
   }
 
@@ -116,7 +116,7 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #fed136; }
+  -webkit-tap-highlight-color: #6C1D45; }
 
 #mainNav {
   background-color: #212529; }
@@ -127,25 +127,25 @@ body {
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: #fed136;
+    background-color: #6C1D45;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   #mainNav .navbar-brand {
-    color: #c5c3bd;
+    color: #CBB677;
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
     }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-      color: #d6be78;
+      color: #6C1D45;
       }
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 90%;
     font-weight: 400;
     padding: 0.75em 0;
     letter-spacing: 1px;
-    color: #e0c67c;
+    color: #6C1D45;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-      color: #f8f9fa;
+      color: #CBB677;
       }
 
 @media (min-width: 992px) {
@@ -238,7 +238,7 @@ header.masthead {
       -moz-transition: all ease 0.5s;
       transition: all ease 0.5s;
       opacity: 0;
-      background: rgb(214 190 120);
+      background: rgb(203 182 119);
       }
       #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
         opacity: 1; }
@@ -385,7 +385,7 @@ header.masthead {
       color: white;
       border: 7px solid #e9ecef;
       border-radius: 100%;
-      background-color: #fed136; }
+      background-color: #CBB677; }
       .timeline > li .timeline-image h4 {
         font-size: 10px;
         line-height: 14px;
@@ -502,7 +502,7 @@ section#contact {
     section#contact .form-group textarea.form-control {
       height: 248px; }
   section#contact .form-control:focus {
-    border-color: #fed136;
+    border-color: #6C1D45;
     box-shadow: none; }
   section#contact ::-webkit-input-placeholder {
     font-weight: 700;
@@ -554,4 +554,4 @@ ul.social-buttons {
     outline: none;
     background-color: #212529; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-      background-color: #fed136; }
+      background-color: #CBB677; }
