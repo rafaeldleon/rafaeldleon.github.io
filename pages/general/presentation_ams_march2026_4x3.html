@@ -91,8 +91,8 @@ MathJax = {
   --font-mono: 'IBM Plex Mono', monospace;
 
   /* Slide dimensions (16:9 aspect ratio) */
-  --slide-w: 1280;
-  --slide-h: 720;
+  --slide-w: 1024;
+  --slide-h: 768;
 }
 
 
@@ -3737,7 +3737,7 @@ svg .netflow-label { fill: var(--brand-primary); font-weight: 700; font-size: 12
     if(!step5 || !label) return;
     var visible = window.getComputedStyle(step5).opacity;
     if(parseFloat(visible) > 0.5){
-      label.innerHTML = '<span style="text-decoration:line-through; opacity:0.4;">Conjecture</span> <strong style="color:var(--color-theorem);">Theorem</strong> <span style="font-size:12px; color:var(--text-dim);">(Bell-Ceballos (2024), Berggren-Serhiyenko (2024), González D\'León-Hanusa-Morales-Yip (2026))</span>';
+      label.innerHTML = '<span style="text-decoration:line-through; opacity:0.4;">Conjecture</span> <strong style="color:var(--color-theorem);">Theorem</strong> <span style="font-size:12px; color:var(--text-dim);">(<strong style="color:var(--brand-secondary);">Bell-Ceballos (2024)</strong>, Berggren-Serhiyenko (2024), González D\'León-Hanusa-Morales-Yip (2026))</span>';
       label.style.color = 'var(--color-theorem)';
       block.style.borderLeftColor = 'var(--color-theorem)';
       block.style.background = 'rgba(76,168,122,0.07)';
@@ -3752,7 +3752,7 @@ svg .netflow-label { fill: var(--brand-primary); font-weight: 700; font-size: 12
     if(!label || !step5) return;
     var visible = window.getComputedStyle(step5).opacity;
     if(parseFloat(visible) > 0.5){
-      label.innerHTML = '<span style="text-decoration:line-through; opacity:0.4;">Conjecture</span> <strong style="color:var(--color-theorem);">Theorem</strong> <span style="font-size:12px; color:var(--text-dim);">(Bell-Ceballos (2024), Berggren-Serhiyenko (2024), González D\'León-Hanusa-Morales-Yip (2026))</span>';
+      label.innerHTML = '<span style="text-decoration:line-through; opacity:0.4;">Conjecture</span> <strong style="color:var(--color-theorem);">Theorem</strong> <span style="font-size:12px; color:var(--text-dim);">(<strong style="color:var(--brand-secondary);">Bell-Ceballos (2024)</strong>, Berggren-Serhiyenko (2024), González D\'León-Hanusa-Morales-Yip (2026))</span>';
       label.style.color = 'var(--color-theorem)';
       block.style.borderLeftColor = 'var(--color-theorem)';
       block.style.background = 'rgba(76,168,122,0.07)';
